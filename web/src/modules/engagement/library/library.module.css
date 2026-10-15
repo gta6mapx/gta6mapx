@@ -1,0 +1,247 @@
+/* ─── modules/engagement/library/library.module.css ──────────────────────────
+   Intel Library styles: dossier cards, original abstract dossier-plate art,
+   evidence honesty treatments, badge tooltips. All art is CSS/SVG —
+   no captured media, no Rockstar art, no photos. */
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 14px;
+  overflow: hidden;
+  background: linear-gradient(160deg, rgba(24, 12, 36, 0.92), rgba(10, 6, 18, 0.94));
+  border: 1px solid rgba(255, 45, 120, 0.22);
+  color: inherit;
+  text-decoration: none;
+  transition:
+    transform 0.18s ease,
+    border-color 0.2s ease,
+    box-shadow 0.25s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 45, 120, 0.65);
+  box-shadow: 0 12px 40px rgba(255, 45, 120, 0.18);
+}
+
+/* ── Dossier plate: original abstract SVG/CSS art ── */
+.plateWrap {
+  position: relative;
+  aspect-ratio: 2 / 1;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(255, 45, 120, 0.18);
+}
+.plateSvg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: filter 0.2s ease;
+}
+.card:hover .plateSvg {
+  filter: brightness(1.1);
+}
+/* Disputed: ~40% desaturated plate (honesty signal, kept under reduced-motion) */
+.plateDesat .plateSvg {
+  filter: saturate(0.6);
+}
+.card:hover .plateDesat .plateSvg {
+  filter: saturate(0.6) brightness(1.06);
+}
+/* Scanline / HUD texture overlay */
+.scanlines {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.035) 0 1px,
+    transparent 1px 3px
+  );
+}
+/* Leak-reported: subtle diagonal UNVERIFIED watermark texture */
+.unverified {
+  position: absolute;
+  inset: -25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  transform: rotate(-18deg);
+  pointer-events: none;
+}
+.unverified span {
+  color: #facc15;
+  opacity: 0.32;
+  font-weight: 800;
+  font-size: 13px;
+  letter-spacing: 0.35em;
+  white-space: nowrap;
+}
+/* Evidence-status strip on the plate's bottom edge */
+.strip {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 5px;
+}
+
+/* ── Card body ── */
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 14px 14px 16px;
+  flex: 1;
+}
+.toprow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: #22d3ee;
+}
+
+/* Badge + keyboard-accessible blurb tooltip */
+.badgeZone {
+  position: relative;
+  display: inline-flex;
+}
+.tip {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 20;
+  width: max-content;
+  max-width: 230px;
+  white-space: normal;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-3px);
+  transition:
+    opacity 0.15s ease,
+    transform 0.15s ease,
+    visibility 0.15s;
+  background: #0a0e14;
+  border: 1px solid rgba(34, 211, 238, 0.55);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.6);
+  color: #e8ecf1;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.45;
+  text-transform: none;
+  letter-spacing: normal;
+  padding: 8px 10px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+.card:hover .tip,
+.card:focus-visible .tip,
+.card:focus-within .tip {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+
+.name {
+  color: #ffffff;
+}
+
+/* Disputed: "authenticity questioned" ribbon under the name */
+.ribbon {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fca5a5;
+  background: rgba(239, 68, 68, 0.12);
+  border: 1px solid rgba(252, 165, 165, 0.4);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+
+.excerpt {
+  color: #8b94a3;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.chip {
+  font-size: 11px;
+  line-height: 1.5;
+  padding: 1px 8px;
+  border-radius: 9999px;
+  border: 1px solid #1f2632;
+  color: #8b94a3;
+  background: rgba(255, 255, 255, 0.02);
+}
+/* Tag that matched the current search */
+.chipMatch {
+  border-color: rgba(34, 211, 238, 0.65);
+  color: #a5f3fc;
+  background: rgba(34, 211, 238, 0.1);
+}
+
+.microline {
+  font-family: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  font-size: 12px;
+  color: #8b94a3;
+  margin-top: auto;
+  padding-top: 4px;
+}
+
+.matched {
+  font-family: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  font-size: 11px;
+  color: #22d3ee;
+}
+
+/* Empty state */
+.empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 56px 24px;
+  text-align: center;
+  border: 1px dashed #1f2632;
+  border-radius: 14px;
+  color: #8b94a3;
+}
+
+/* ── Reduced motion: no lift, no brighten, no tooltip transitions ── */
+@media (prefers-reduced-motion: reduce) {
+  .card,
+  .plateSvg,
+  .tip {
+    transition: none;
+  }
+  .card:hover {
+    transform: none;
+  }
+  .card:hover .plateSvg {
+    filter: none;
+  }
+  /* Honesty desaturation is a signal, not decoration — keep it. */
+  .plateDesat .plateSvg,
+  .card:hover .plateDesat .plateSvg {
+    filter: saturate(0.6);
+  }
+  .card:hover .tip,
+  .card:focus-visible .tip,
+  .card:focus-within .tip {
+    transform: none;
+  }
+}

@@ -1,0 +1,680 @@
+@import "tailwindcss";
+
+/* Display font for the cinematic landing (game-poster condensed type) */
+@theme {
+  --font-display: "Anton", "Arial Black", sans-serif;
+}
+
+/* MapLibre dark overrides */
+.maplibregl-canvas {
+  outline: none;
+}
+.maplibregl-ctrl-group {
+  background: var(--panel) !important;
+  box-shadow: 0 2px 12px rgba(0,0,0,.5) !important;
+}
+.maplibregl-ctrl-group button {
+  background: var(--panel) !important;
+}
+.maplibregl-ctrl-group button span {
+  filter: invert(0.85);
+}
+.maplibregl-ctrl-attrib {
+  background: rgba(10, 14, 20, 0.7) !important;
+  font-size: 10px !important;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--muted) !important;
+}
+.maplibregl-popup-content {
+  background: var(--panel) !important;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px !important;
+}
+
+:root {
+  --bg: #0a0e14;
+  --panel: #11161f;
+  --border: #1f2632;
+  --text: #e8ecf1;
+  --muted: #8b94a3;
+  --accent: #22c55e;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Map canvas base */
+
+/* Custom pin markers — Phase 2 neon restyle (kept as CSS fallback; pins are
+   canvas-rendered in the live map engine). Fill = evidence status @92%,
+   2px white ring, status-color glow. Class names unchanged for compat. */
+.gta-pin {
+  --pin-fill: rgba(156, 163, 175, 0.92);   /* speculation gray default */
+  --pin-glow: rgba(156, 163, 175, 0.35);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 9999px;
+  background: var(--pin-fill);
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.65), 0 0 12px var(--pin-glow);
+  font-size: 14px;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+.gta-pin:hover { transform: scale(1.2); }
+.gta-pin.found {
+  opacity: 0.35;
+  filter: grayscale(0.8);
+}
+/* cyan check badge overlapping the found pin's top-right */
+.gta-pin.found::after {
+  content: "✓";
+  position: absolute;
+  top: -7px;
+  right: -7px;
+  width: 16px;
+  height: 16px;
+  border-radius: 9999px;
+  background: var(--neon-cyan);
+  color: #052730;
+  font-size: 11px;
+  font-weight: 800;
+  line-height: 16px;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(34, 211, 238, 0.6);
+}
+.gta-pin.selected {
+  outline: 2px solid var(--neon-pink);
+  outline-offset: 3px;
+  transform: scale(1.2);
+  z-index: 10;
+  animation: pin-select-pulse 2.2s ease-in-out infinite;
+}
+@keyframes pin-select-pulse {
+  0%, 100% { box-shadow: 0 2px 10px rgba(0, 0, 0, 0.65), 0 0 12px var(--pin-glow), 0 0 0 0 rgba(255, 45, 120, 0.45); }
+  50% { box-shadow: 0 2px 10px rgba(0, 0, 0, 0.65), 0 0 12px var(--pin-glow), 0 0 18px 2px rgba(255, 45, 120, 0.35); }
+}
+.gta-pin.dimmed { opacity: 0.25; }
+.gta-pin.pin-confirmed { --pin-fill: rgba(34, 197, 94, 0.92); --pin-glow: rgba(34, 197, 94, 0.35); }
+.gta-pin.pin-trailer   { --pin-fill: rgba(56, 189, 248, 0.92); --pin-glow: rgba(56, 189, 248, 0.35); }
+.gta-pin.pin-likely    { --pin-fill: rgba(234, 179, 8, 0.92);  --pin-glow: rgba(234, 179, 8, 0.35); }
+.gta-pin.pin-disputed  { --pin-fill: rgba(239, 68, 68, 0.92);  --pin-glow: rgba(239, 68, 68, 0.35); }
+.gta-pin.pin-speculation { --pin-fill: rgba(156, 163, 175, 0.92); --pin-glow: rgba(156, 163, 175, 0.35); }
+
+/* Larger pin hit targets on touch devices */
+@media (pointer: coarse) {
+  .gta-pin {
+    width: 42px;
+    height: 42px;
+    font-size: 17px;
+  }
+}
+
+/* Bigger MapLibre controls for touch */
+.maplibregl-ctrl-group button {
+  width: 36px !important;
+  height: 36px !important;
+}
+
+/* Visible keyboard focus on all interactive elements — accent-colored ring */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible,
+[role="button"]:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Skeleton shimmer for map loading state */
+.skeleton-shimmer {
+  position: relative;
+  overflow: hidden;
+  background: var(--panel);
+}
+.skeleton-shimmer::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(139, 148, 163, 0.12), transparent);
+  animation: shimmer 1.6s infinite;
+}
+@keyframes shimmer {
+  100% { transform: translateX(100%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-shimmer::after { animation: none; }
+}
+
+/* Certainty badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+.badge-confirmed { background: rgba(22,163,74,.18); color: #4ade80; border: 1px solid rgba(74,222,128,.4); }
+.badge-trailer { background: rgba(56,189,248,.15); color: #7dd3fc; border: 1px solid rgba(125,211,252,.4); }
+.badge-likely { background: rgba(202,138,4,.18); color: #facc15; border: 1px solid rgba(250,204,21,.4); }
+.badge-speculation { background: rgba(75,85,99,.25); color: #9ca3af; border: 1px solid rgba(156,163,175,.4); }
+.badge-disputed { background: rgba(239,68,68,.12); color: #fca5a5; border: 1px solid rgba(252,165,165,.4); }
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: #2a3342; border-radius: 4px; }
+
+/* ============ VICE CITY CINEMATIC THEME (landing page) ============ */
+
+.vice-sky {
+  background:
+    radial-gradient(1200px 500px at 50% 108%, rgba(251, 146, 60, 0.28), transparent 70%),
+    radial-gradient(900px 420px at 50% 100%, rgba(255, 45, 120, 0.32), transparent 70%),
+    linear-gradient(180deg, #07040f 0%, #150a24 34%, #3b1150 58%, #8f1d5e 74%, #e8546b 88%, #ff9a5c 100%);
+}
+
+.vice-sun {
+  background: radial-gradient(circle, #ffe9b8 0%, #ffc46b 34%, #ff7a4d 62%, rgba(255, 90, 90, 0) 72%);
+  filter: blur(2px) saturate(1.2);
+  animation: sun-breathe 7s ease-in-out infinite;
+}
+@keyframes sun-breathe {
+  0%, 100% { transform: scale(1); opacity: 0.95; }
+  50% { transform: scale(1.04); opacity: 1; }
+}
+
+.vice-neon-title {
+  background: linear-gradient(100deg, #ff50c5 0%, #e879f9 35%, #a855f7 65%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 0 26px rgba(255, 80, 197, 0.45)) drop-shadow(0 2px 0 rgba(0, 0, 0, 0.55));
+  animation: neon-flicker 9s linear infinite;
+}
+@keyframes neon-flicker {
+  0%, 100% { opacity: 1; }
+  3% { opacity: 0.86; }
+  5% { opacity: 1; }
+  54% { opacity: 1; }
+  55% { opacity: 0.9; }
+  56% { opacity: 1; }
+}
+
+/* film grain overlay */
+.vice-grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='0.34'/%3E%3C/svg%3E");
+  animation: grain-shift 0.9s steps(3) infinite;
+}
+@keyframes grain-shift {
+  0% { transform: translate(0, 0); }
+  33% { transform: translate(-18px, 10px); }
+  66% { transform: translate(12px, -14px); }
+  100% { transform: translate(0, 0); }
+}
+
+.vice-vignette::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(120% 90% at 50% 42%, transparent 52%, rgba(4, 2, 10, 0.72) 100%);
+  z-index: 5;
+}
+
+.vice-scanlines::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.025) 0 1px, transparent 1px 3px);
+  z-index: 6;
+}
+
+.vice-palm { animation: palm-sway 8s ease-in-out infinite; transform-origin: bottom center; }
+.vice-palm-slow { animation: palm-sway 11s ease-in-out infinite reverse; transform-origin: bottom center; }
+@keyframes palm-sway {
+  0%, 100% { transform: rotate(-1.1deg); }
+  50% { transform: rotate(1.1deg); }
+}
+
+/* marquee ticker */
+.vice-ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 28s linear infinite;
+}
+@keyframes ticker-scroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* HUD frame corners */
+.hud-corner { position: relative; }
+.hud-corner::before,
+.hud-corner::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  border-color: rgba(255, 45, 120, 0.8);
+  border-style: solid;
+  pointer-events: none;
+}
+.hud-corner::before { top: -1px; left: -1px; border-width: 2px 0 0 2px; }
+.hud-corner::after { bottom: -1px; right: -1px; border-width: 0 2px 2px 0; }
+
+.vice-btn-neon {
+  background: linear-gradient(100deg, #ff2d78, #a855f7);
+  box-shadow: 0 0 24px rgba(255, 45, 120, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  transition: transform 0.15s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+.vice-btn-neon:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.1);
+  box-shadow: 0 0 36px rgba(255, 45, 120, 0.65), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+
+.vice-card {
+  background: linear-gradient(160deg, rgba(24, 12, 36, 0.92), rgba(10, 6, 18, 0.94));
+  border: 1px solid rgba(255, 45, 120, 0.22);
+  transition: transform 0.18s ease, border-color 0.2s ease, box-shadow 0.25s ease;
+}
+.vice-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 45, 120, 0.65);
+  box-shadow: 0 12px 40px rgba(255, 45, 120, 0.18), 0 0 0 1px rgba(255, 45, 120, 0.25);
+}
+
+.vice-count-chip {
+  background: rgba(8, 4, 16, 0.72);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  box-shadow: 0 0 18px rgba(34, 211, 238, 0.12), inset 0 0 18px rgba(34, 211, 238, 0.05);
+  backdrop-filter: blur(6px);
+}
+
+/* Launch countdown digits — neon glow in the active accent */
+.countdown-digits {
+  color: var(--accent);
+  text-shadow: 0 0 18px var(--accent-soft), 0 0 64px var(--accent-line);
+}
+@keyframes countdown-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+.countdown-outnow {
+  animation: countdown-pulse 2.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vice-sun, .vice-neon-title, .vice-palm, .vice-palm-slow,
+  .vice-ticker-track, .vice-grain::after { animation: none !important; }
+  /* Phase 2 map chrome: no decorative animation or motion */
+  .glass-panel,
+  .btn-neon, .btn-ghost, .btn-hud,
+  .seg-control, .seg-control button,
+  .gta-pin, .gta-pin.selected,
+  .map-grade::after,
+  .settings-drawer {
+    animation: none !important;
+    transition: none !important;
+  }
+  .gta-pin:hover, .gta-pin.selected { transform: none; }
+  .btn-neon:hover { transform: none; }
+  /* Phase 5 engagement: no countdown pulse, no panel/modal transitions */
+  .countdown-outnow { animation: none !important; }
+  .settings-panel, .settings-panel *,
+  .about-modal, .about-modal * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+/* ==========================================================================
+   PHASE 2 — VICE CITY NEON-NOIR DESIGN TOKENS & MAP CHROME
+   Original work for GTA6mapx. Existing base tokens (--bg, --panel, --border,
+   --text, --muted, --accent) are kept above for backward compatibility;
+   --border / --text / --muted already match the spec values below.
+   ========================================================================== */
+
+:root {
+  /* 1.1 Base surfaces */
+  --bg-0: #07040f;   /* deepest layer: splash screen, full overlays */
+  --bg-1: #0a0e14;   /* map chrome background (matches legacy --bg) */
+  --bg-2: #11161f;   /* panels, cards (matches legacy --panel) */
+  --bg-3: #1a2230;   /* hover / raised surfaces */
+  --border-soft: rgba(232, 236, 241, 0.08);
+  --text-dim: #c3cad4;
+
+  /* 1.2 Brand (Vice City neon-noir) */
+  --neon-pink: #ff2d78;                  /* PRIMARY interactive accent */
+  --neon-pink-soft: rgba(255, 45, 120, 0.14);
+  --neon-pink-line: rgba(255, 45, 120, 0.30);
+  --neon-purple: #a855f7;                /* gradient partner, decorative */
+  --neon-cyan: #22d3ee;                  /* SECONDARY: HUD, info, focus */
+  --neon-cyan-soft: rgba(34, 211, 238, 0.12);
+  --sunset-orange: #ff9a3c;              /* warmth: progress, highlights */
+  --sunset-cream: #ffe9b8;               /* sun core, rare highlights */
+
+  /* 1.3 Evidence (Leak Transparency Engine) — semantics never change */
+  --ev-confirmed: #22c55e;  /* rockstar-confirmed */
+  --ev-trailer: #38bdf8;    /* trailer-confirmed */
+  --ev-leak: #eab308;       /* leak-reported */
+  --ev-disputed: #ef4444;   /* disputed */
+  --ev-spec: #9ca3af;       /* speculation */
+
+  /* 1.4 Glassmorphism panel tokens */
+  --glass-bg: linear-gradient(160deg, rgba(24, 12, 36, 0.78), rgba(10, 6, 18, 0.86));
+  --glass-blur: blur(14px) saturate(1.25);
+  --glass-border: 1px solid rgba(255, 45, 120, 0.22);
+  --glass-border-strong: 1px solid rgba(255, 45, 120, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), 0 0 24px rgba(255, 45, 120, 0.10);
+  --glass-radius: 14px;
+
+  /* 2.2 Type scale */
+  --text-hero: clamp(3rem, 8vw, 6rem);
+  --text-h1: 1.375rem;
+  --text-h2: 1.0625rem;
+  --text-body: 0.9375rem;
+  --text-small: 0.8125rem;
+  --text-micro: 0.6875rem;
+  --text-mono: 0.8125rem;
+
+  /* 8. Motion */
+  --dur-instant: 120ms;
+  --dur-fast: 200ms;
+  --dur-base: 320ms;
+  --dur-slow: 600ms;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-snap: cubic-bezier(0.34, 1.3, 0.64, 1);
+}
+
+/* 1.6 Dark variants — selected via data-theme on <html> (unified settings store) */
+[data-theme="midnight-outrun"] {
+  --bg-0: #05070d;
+  --bg-1: #090d14;
+  --bg-2: #0c1118;
+  --glass-bg: linear-gradient(160deg, rgba(12, 18, 30, 0.82), rgba(6, 9, 15, 0.88));
+  --glass-border: 1px solid rgba(34, 211, 238, 0.22);
+  --glass-border-strong: 1px solid rgba(34, 211, 238, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.6), 0 0 24px rgba(34, 211, 238, 0.08);
+  --sunset-orange: #d97706;  /* muted sunset */
+  --sunset-cream: #e8d5a8;
+}
+[data-theme="sunset-boulevard"] {
+  --bg-0: #0e0508;
+  --bg-1: #130711;
+  --bg-2: #1c0d15;
+  --bg-3: #2a1420;
+  --text: #f5ede8;
+  --text-dim: #d9c8c2;
+  --glass-bg: linear-gradient(160deg, rgba(42, 14, 28, 0.82), rgba(16, 5, 12, 0.9));
+  --glass-border: 1px solid rgba(255, 122, 60, 0.3);
+  --glass-border-strong: 1px solid rgba(255, 122, 60, 0.6);
+  /* warmer, higher-luminance glow */
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.6), 0 0 36px rgba(255, 110, 60, 0.16);
+  --sunset-orange: #ffa04d;
+  --sunset-cream: #ffe9b8;
+}
+
+/* 1.7 Accent system — selected via data-accent on <html> (unified settings
+   store). The accent recolors interactive accents site-wide: it overrides
+   --neon-pink (the primary interactive accent token), so --accent and every
+   component built on the token follow automatically. */
+:root {
+  --accent: var(--neon-pink);
+  --accent-soft: var(--neon-pink-soft);
+  --accent-line: var(--neon-pink-line);
+  /* surface aliases — resolve against the active theme's base surfaces */
+  --surface-0: var(--bg-0);
+  --surface-1: var(--bg-1);
+  --surface-2: var(--bg-2);
+  --surface-3: var(--bg-3);
+}
+[data-accent="sunset-orange"] {
+  --neon-pink: #ff8a3c;
+  --neon-pink-soft: rgba(255, 138, 60, 0.14);
+  --neon-pink-line: rgba(255, 138, 60, 0.30);
+  --glass-border: 1px solid rgba(255, 138, 60, 0.22);
+  --glass-border-strong: 1px solid rgba(255, 138, 60, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), 0 0 24px rgba(255, 138, 60, 0.10);
+}
+[data-accent="electric-cyan"] {
+  --neon-pink: #22d3ee;
+  --neon-pink-soft: rgba(34, 211, 238, 0.14);
+  --neon-pink-line: rgba(34, 211, 238, 0.30);
+  --glass-border: 1px solid rgba(34, 211, 238, 0.22);
+  --glass-border-strong: 1px solid rgba(34, 211, 238, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), 0 0 24px rgba(34, 211, 238, 0.10);
+}
+[data-accent="vice-purple"] {
+  --neon-pink: #a855f7;
+  --neon-pink-soft: rgba(168, 85, 247, 0.14);
+  --neon-pink-line: rgba(168, 85, 247, 0.30);
+  --glass-border: 1px solid rgba(168, 85, 247, 0.22);
+  --glass-border-strong: 1px solid rgba(168, 85, 247, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), 0 0 24px rgba(168, 85, 247, 0.10);
+}
+[data-accent="lime"] {
+  --neon-pink: #a3e635;
+  --neon-pink-soft: rgba(163, 230, 53, 0.14);
+  --neon-pink-line: rgba(163, 230, 53, 0.30);
+  --glass-border: 1px solid rgba(163, 230, 53, 0.22);
+  --glass-border-strong: 1px solid rgba(163, 230, 53, 0.45);
+  --glass-shadow: 0 12px 40px rgba(0, 0, 0, 0.55), 0 0 24px rgba(163, 230, 53, 0.10);
+}
+
+/* 1.8 Panel styles — data-panel="docked" (unified settings store).
+   Docked: flush, more opaque, squarer — for users who find floating glass
+   distracting. */
+[data-panel="docked"] .glass-panel {
+  border-radius: 8px;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  background: rgba(13, 17, 25, 0.97);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+/* ---------- 3. Glassmorphism panel ---------- */
+.glass-panel {
+  background: var(--glass-bg);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  border: var(--glass-border);
+  border-radius: var(--glass-radius);
+  box-shadow: var(--glass-shadow), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+/* solid fallback where backdrop-filter is unsupported */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .glass-panel { background: rgba(17, 22, 31, 0.94); }
+}
+
+/* ---------- 6.1 Buttons ---------- */
+.btn-neon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: linear-gradient(100deg, var(--neon-pink), var(--neon-purple));
+  color: #ffffff;
+  font-weight: 700;
+  font-size: var(--text-small);
+  line-height: 1.2;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 0 24px rgba(255, 45, 120, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  transition:
+    transform var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out),
+    filter var(--dur-fast) var(--ease-out);
+}
+.btn-neon:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+  box-shadow: 0 0 36px rgba(255, 45, 120, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+}
+.btn-neon:active { transform: translateY(0); }
+.btn-neon:disabled { opacity: 0.5; cursor: not-allowed; transform: none; filter: none; }
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-weight: 600;
+  font-size: var(--text-small);
+  line-height: 1.2;
+  padding: 10px 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition:
+    border-color var(--dur-fast) var(--ease-out),
+    color var(--dur-fast) var(--ease-out),
+    background-color var(--dur-fast) var(--ease-out);
+}
+.btn-ghost:hover {
+  border-color: var(--neon-pink-line);
+  color: #ffffff;
+  background: var(--neon-pink-soft);
+}
+.btn-ghost:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.btn-hud {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(8, 4, 16, 0.72);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  color: var(--neon-cyan);
+  font-family: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+  font-size: var(--text-mono);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 8px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 0 18px rgba(34, 211, 238, 0.12), inset 0 0 18px rgba(34, 211, 238, 0.05);
+  transition:
+    border-color var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out);
+}
+.btn-hud:hover {
+  border-color: rgba(34, 211, 238, 0.7);
+  box-shadow: 0 0 26px rgba(34, 211, 238, 0.22), inset 0 0 18px rgba(34, 211, 238, 0.08);
+}
+
+/* ---------- 6.2 Segmented control (2D/3D, theme, units) ---------- */
+.seg-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: 9999px;
+  padding: 3px;
+}
+.seg-control button {
+  position: relative;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: var(--text-small);
+  font-weight: 600;
+  line-height: 1.2;
+  padding: 8px 16px;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition:
+    color var(--dur-fast) var(--ease-out),
+    background var(--dur-fast) var(--ease-out),
+    box-shadow var(--dur-fast) var(--ease-out);
+}
+.seg-control button:hover { color: var(--text-dim); }
+.seg-control button[aria-pressed="true"],
+.seg-control button.seg-active {
+  background: linear-gradient(100deg, var(--neon-pink), var(--neon-purple));
+  color: #ffffff;
+  box-shadow: 0 0 16px rgba(255, 45, 120, 0.4);
+}
+
+/* ---------- 1.5 Map-canvas grading overlay ----------
+   Non-interactive: grades dark vector tiles toward the palette and paints
+   the pink "sunset line" horizon glow along the top edge. Apply .map-grade
+   to the map container; canvas, markers and controls stay interactive. */
+.map-grade { position: relative; isolation: isolate; }
+.map-grade::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(180deg, rgba(255, 45, 120, 0.45) 0%, rgba(255, 45, 120, 0.14) 1.5%, transparent 10%),
+    linear-gradient(180deg, rgba(7, 4, 15, 0.25), transparent 30%, transparent 70%, rgba(7, 4, 15, 0.35));
+}
+
+/* ---------- Settings drawer entrance ---------- */
+.settings-drawer { animation: drawer-in var(--dur-base) var(--ease-out); }
+@keyframes drawer-in {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* ── Drawer team: glass + density runtime switches (unified settings store).
+   data-glass="flat" renders .glass-panel solid; data-density="compact"
+   tightens chrome. data-accent="…" + inline --neon-pink* vars handle accent. */
+[data-glass="flat"] .glass-panel {
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  background: rgba(13, 17, 25, 0.97);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+[data-density="compact"] .glass-panel {
+  border-radius: 10px;
+}
+[data-density="compact"] .settings-panel {
+  padding: 0.875rem;
+}
+
+/* ── Mobile-only FABs ──
+   Tailwind v4 puts utilities (md:hidden / lg:hidden) in a cascade layer,
+   while the unlayered .btn-ghost/.btn-neon rules above set
+   display:inline-flex — unlayered wins, so mobile FABs leaked onto desktop.
+   Hide them explicitly at the matching breakpoint (later in the file + same
+   specificity wins over the button rules). */
+@media (min-width: 768px) {
+  .fab-mobile { display: none; }
+}
+@media (min-width: 1024px) {
+  .fab-mobile-lg { display: none; }
+}

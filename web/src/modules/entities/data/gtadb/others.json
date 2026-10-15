@@ -1,0 +1,3860 @@
+[
+  {
+    "id": "gtadb-6-L48",
+    "name": "Bobby Hurricane's",
+    "slug": "bobby-hurricanes",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1923.5,
+      "y": 398.4999999999999
+    },
+    "coords": {
+      "lat": 25.768681,
+      "lng": -80.121243
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bobby Hurricane's is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L50",
+    "name": "Seahorse",
+    "slug": "seahorse",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1920.5,
+      "y": 371.4999999999999
+    },
+    "coords": {
+      "lat": 25.767838,
+      "lng": -80.121601
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Seahorse — a point of interest — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L87",
+    "name": "Firefly Plaza",
+    "slug": "firefly-plaza",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1726.9920000000002,
+      "y": 1673.875
+    },
+    "coords": {
+      "lat": 25.812362,
+      "lng": -80.114956
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Firefly Plaza\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L101",
+    "name": "Vice Beach Welcome Mural",
+    "slug": "vice-beach-welcome-mural",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1405.327,
+      "y": 1753.3645
+    },
+    "coords": {
+      "lat": 25.818655,
+      "lng": -80.124282
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Vice Beach Welcome Mural is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L174",
+    "name": "Park",
+    "slug": "park",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -491.03600000000006,
+      "y": 1376.771
+    },
+    "coords": {
+      "lat": 25.828311,
+      "lng": -80.187519
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Park — a point of interest — in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L178",
+    "name": "Crescent",
+    "slug": "crescent",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -386.15599999999995,
+      "y": 1275.916
+    },
+    "coords": {
+      "lat": 25.823826,
+      "lng": -80.185211
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Crescent\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L208",
+    "name": "Megamundo",
+    "slug": "megamundo",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -471.9069999999997,
+      "y": -297.61
+    },
+    "coords": {
+      "lat": 25.77372,
+      "lng": -80.203275
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Megamundo is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L232",
+    "name": "Sahara HQ",
+    "slug": "sahara-hq",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -790.2346228667612,
+      "y": -1135.438695287696
+    },
+    "coords": {
+      "lat": 25.750187,
+      "lng": -80.221458
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Sahara HQ — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L240",
+    "name": "Grand Majestic",
+    "slug": "grand-majestic",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -1071.397,
+      "y": -1335.3310000000001
+    },
+    "coords": {
+      "lat": 25.746941,
+      "lng": -80.232241
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Grand Majestic\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L241",
+    "name": "International Online Unlimited",
+    "slug": "international-online-unlimited",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -979.0259999999998,
+      "y": -1380.107
+    },
+    "coords": {
+      "lat": 25.744421,
+      "lng": -80.229777
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "International Online Unlimited is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L274",
+    "name": "Blimp",
+    "slug": "blimp",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4432.533,
+      "y": -6826.821
+    },
+    "coords": {
+      "lat": 25.60741,
+      "lng": -80.391448
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Blimp — a point of interest — in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L277",
+    "name": "Guard Booth",
+    "slug": "guard-booth",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6402.738,
+      "y": -6978.609
+    },
+    "coords": {
+      "lat": 25.625218,
+      "lng": -80.454809
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Guard Booth\" appears in the GTA 6 community landmark dataset, placed in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L278",
+    "name": "Warehouse",
+    "slug": "warehouse",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -4705,
+      "y": 1852
+    },
+    "coords": {
+      "lat": 25.892372,
+      "lng": -80.315223
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Warehouse is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L322",
+    "name": "Dry Dock",
+    "slug": "dry-dock",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -7724.863000000001,
+      "y": 4671.153
+    },
+    "coords": {
+      "lat": 26.018765,
+      "lng": -80.382527
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Dry Dock — a point of interest — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L348",
+    "name": "Watkins Auto Parts?",
+    "slug": "watkins-auto-parts",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6446,
+      "y": 3282.5
+    },
+    "coords": {
+      "lat": 25.958915,
+      "lng": -80.355928
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Watkins Auto Parts\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L449",
+    "name": "What's Cooking",
+    "slug": "whats-cooking",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -653.751,
+      "y": 1265.0735
+    },
+    "coords": {
+      "lat": 25.826562,
+      "lng": -80.193721
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "What's Cooking is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L470",
+    "name": "Lombank",
+    "slug": "lombank",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1760,
+      "y": 1305
+    },
+    "coords": {
+      "lat": 25.800003,
+      "lng": -80.117523
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Lombank — a point of interest — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L477",
+    "name": "Allied Air Hangar",
+    "slug": "allied-air-hangar",
+    "district": "Vice City International Airport",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -2027.205343775009,
+      "y": -587.9206128131425
+    },
+    "coords": {
+      "lat": 25.782241,
+      "lng": -80.254958
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Allied Air Hangar\" appears in the GTA 6 community landmark dataset, placed in the Vice City International Airport area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L478",
+    "name": "Glamour",
+    "slug": "glamour",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -436.5817752679832,
+      "y": 1691.692080481539
+    },
+    "coords": {
+      "lat": 25.837909,
+      "lng": -80.182733
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Glamour is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L490",
+    "name": "Going Spare",
+    "slug": "going-spare",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -638.3539999999998,
+      "y": 1473.9519999999998
+    },
+    "coords": {
+      "lat": 25.833167,
+      "lng": -80.191197
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Going Spare — a point of interest — in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L491",
+    "name": "Shunters",
+    "slug": "shunters",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -665.1240597763003,
+      "y": 1433.6167378569503
+    },
+    "coords": {
+      "lat": 25.832166,
+      "lng": -80.192432
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Shunters\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L493",
+    "name": "Kirkwood Distribution",
+    "slug": "kirkwood-distribution",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -671.1009999999999,
+      "y": 1372.0805
+    },
+    "coords": {
+      "lat": 25.830237,
+      "lng": -80.19322
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Kirkwood Distribution is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L505",
+    "name": "\"House C\"",
+    "slug": "house-c",
+    "district": "Key Lento",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -2298.6890000000003,
+      "y": -5488.0665
+    },
+    "coords": {
+      "lat": 25.626257,
+      "lng": -80.311353
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists \"House C\" — a point of interest — in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L506",
+    "name": "\"House D\"",
+    "slug": "house-d",
+    "district": "Key Lento",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -2289.9320000000002,
+      "y": -5472.755
+    },
+    "coords": {
+      "lat": 25.626653,
+      "lng": -80.310929
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"\"House D\"\" appears in the GTA 6 community landmark dataset, placed in the Key Lento area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L513",
+    "name": "Radio Mast",
+    "slug": "radio-mast-3",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5225.415,
+      "y": 3302.145
+    },
+    "coords": {
+      "lat": 25.945467,
+      "lng": -80.317402
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Radio Mast is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L524",
+    "name": "Buckme",
+    "slug": "buckme",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -467.50199999999995,
+      "y": -165.37350000000004
+    },
+    "coords": {
+      "lat": 25.777963,
+      "lng": -80.201845
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Buckme — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L539",
+    "name": "Vice City Pawn",
+    "slug": "vice-city-pawn",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -660,
+      "y": 1162.5
+    },
+    "coords": {
+      "lat": 25.823303,
+      "lng": -80.194919
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Vice City Pawn\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L582",
+    "name": "Parking Garage",
+    "slug": "parking-garage",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -701.7961358366701,
+      "y": 106.94677372451383
+    },
+    "coords": {
+      "lat": 25.78951,
+      "lng": -80.206543
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Parking Garage is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L596",
+    "name": "Repair & Salvage",
+    "slug": "repair-salvage",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6708.3371813428585,
+      "y": 3718.415251803757
+    },
+    "coords": {
+      "lat": 25.976097,
+      "lng": -80.359909
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Repair & Salvage — a point of interest — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L671",
+    "name": "Shoreline Market",
+    "slug": "shoreline-market",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -302.35499357890694,
+      "y": 186.81215962224985
+    },
+    "coords": {
+      "lat": 25.787493,
+      "lng": -80.193218
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Shoreline Market\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L672",
+    "name": "Train Bridge",
+    "slug": "train-bridge-3",
+    "district": "Capri",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6837.814095063794,
+      "y": 769.4198423385942
+    },
+    "coords": {
+      "lat": 25.881832,
+      "lng": -80.392784
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Train Bridge is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Capri area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L702",
+    "name": "Status Auto Resort",
+    "slug": "status-auto-resort",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -561.6351507704968,
+      "y": 1455.8215714447276
+    },
+    "coords": {
+      "lat": 25.831693,
+      "lng": -80.188964
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Status Auto Resort — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L744",
+    "name": "Archipelago (S)",
+    "slug": "archipelago-s",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -428.55099999999993,
+      "y": 1112.152
+    },
+    "coords": {
+      "lat": 25.818997,
+      "lng": -80.188142
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Archipelago (S)\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L800",
+    "name": "Atlantic Ocean",
+    "slug": "atlantic-ocean",
+    "district": "",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 3162.178083752604,
+      "y": 1204.42796141693
+    },
+    "coords": {
+      "lat": 25.780556,
+      "lng": -80.074468
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Atlantic Ocean is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the wider Leonida area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L811",
+    "name": "Repair & Salvage",
+    "slug": "repair-salvage-2",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6682.6847439086505,
+      "y": 3739.480269909845
+    },
+    "coords": {
+      "lat": 25.976485,
+      "lng": -80.358897
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Repair & Salvage — a point of interest — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L820",
+    "name": "Guardhouse",
+    "slug": "guardhouse",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6381.049000000001,
+      "y": 2587.7835
+    },
+    "coords": {
+      "lat": 25.935606,
+      "lng": -80.360675
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Guardhouse\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L875",
+    "name": "Hamilton Private Health Clinic",
+    "slug": "hamilton-private-health-clinic",
+    "district": "Key Lento",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1993.126902396322,
+      "y": -5205.152849921111
+    },
+    "coords": {
+      "lat": 25.631918,
+      "lng": -80.298993
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Hamilton Private Health Clinic is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L885",
+    "name": "Water Tower",
+    "slug": "water-tower-9",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2227.9092343804004,
+      "y": 464.19054018772704
+    },
+    "coords": {
+      "lat": 25.818721,
+      "lng": -80.250984
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Water Tower — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L887",
+    "name": "Parking Lot",
+    "slug": "parking-lot-2",
+    "district": "Ambrosia",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2567.044172933373,
+      "y": 5018.416136011762
+    },
+    "coords": {
+      "lat": 25.97052,
+      "lng": -80.217145
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Parking Lot\" appears in the GTA 6 community landmark dataset, placed in the Ambrosia area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Ambrosia",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L893",
+    "name": "Parking Lot",
+    "slug": "parking-lot-3",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1940.243,
+      "y": 1491.178146411049
+    },
+    "coords": {
+      "lat": 25.803969,
+      "lng": -80.110043
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Parking Lot is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L909",
+    "name": "Empty Lot",
+    "slug": "empty-lot",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -606.0706942417673,
+      "y": 910.6853448827217
+    },
+    "coords": {
+      "lat": 25.814504,
+      "lng": -80.195685
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Empty Lot — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L945",
+    "name": "Pier",
+    "slug": "pier",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6600.256,
+      "y": 3455.869
+    },
+    "coords": {
+      "lat": 25.966325,
+      "lng": -80.359079
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Pier\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L946",
+    "name": "Pier",
+    "slug": "pier-2",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6640.256,
+      "y": 3411.369
+    },
+    "coords": {
+      "lat": 25.965341,
+      "lng": -80.36077
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Pier is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L947",
+    "name": "Juice Fruit Sign",
+    "slug": "juice-fruit-sign",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6568.562220634092,
+      "y": 3643.496497832098
+    },
+    "coords": {
+      "lat": 25.972051,
+      "lng": -80.356251
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Juice Fruit Sign — a point of interest — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L955",
+    "name": "Park",
+    "slug": "park-3",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6360.118,
+      "y": 3142.547
+    },
+    "coords": {
+      "lat": 25.953379,
+      "lng": -80.354598
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Park\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L977",
+    "name": "Lake",
+    "slug": "lake-3",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -1059.810907092606,
+      "y": 442.50487612347445
+    },
+    "coords": {
+      "lat": 25.804537,
+      "lng": -80.214509
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Lake is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1060",
+    "name": "Cospace",
+    "slug": "cospace",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -503.0909999999999,
+      "y": 815.3160000000001
+    },
+    "coords": {
+      "lat": 25.810219,
+      "lng": -80.193383
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Cospace — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1086",
+    "name": "Container Crane (2)",
+    "slug": "container-crane-2-2",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -7869.1032524613565,
+      "y": 4670.072798685048
+    },
+    "coords": {
+      "lat": 26.020395,
+      "lng": -80.387068
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Container Crane (2)\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1087",
+    "name": "Container Crane (3)",
+    "slug": "container-crane-3-2",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -7660.9663714190965,
+      "y": 4592.519448244851
+    },
+    "coords": {
+      "lat": 26.015475,
+      "lng": -80.381289
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Container Crane (3) is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1112",
+    "name": "Allied Crystal Guard Booth",
+    "slug": "allied-crystal-guard-booth",
+    "district": "Ambrosia",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2707.1677200005092,
+      "y": 3936.9953553423184
+    },
+    "coords": {
+      "lat": 25.937021,
+      "lng": -80.23211
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Allied Crystal Guard Booth — a point of interest — in the Ambrosia area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Ambrosia",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1159",
+    "name": "Starlet Motel Pool",
+    "slug": "starlet-motel-pool",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -5306.874,
+      "y": 3472.686
+    },
+    "coords": {
+      "lat": 25.951945,
+      "lng": -80.318294
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Starlet Motel Pool\" appears in the GTA 6 community landmark dataset, placed in the Kelly County area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1203",
+    "name": "Water Tower?",
+    "slug": "water-tower-10",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6810.850144432614,
+      "y": -6344.798469427663
+    },
+    "coords": {
+      "lat": 25.650508,
+      "lng": -80.461434
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Water Tower is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Mariana County area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1277",
+    "name": "84",
+    "slug": "84",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -403.02099999999996,
+      "y": 1753.43
+    },
+    "coords": {
+      "lat": 25.839526,
+      "lng": -80.181076
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists 84 — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1289",
+    "name": "Runway",
+    "slug": "runway",
+    "district": "Vice City International Airport",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2860.2552359470983,
+      "y": -273.3122546843006
+    },
+    "coords": {
+      "lat": 25.802071,
+      "lng": -80.278048
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Runway\" appears in the GTA 6 community landmark dataset, placed in the Vice City International Airport area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1290",
+    "name": "Runway",
+    "slug": "runway-2",
+    "district": "Vice City International Airport",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2851.899416882231,
+      "y": -1040.8777919232268
+    },
+    "coords": {
+      "lat": 25.77705,
+      "lng": -80.285284
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Runway is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City International Airport area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1303",
+    "name": "Parking Lot",
+    "slug": "parking-lot-5",
+    "district": "Hamlet",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -2543.966736241715,
+      "y": -3290.507703355427
+    },
+    "coords": {
+      "lat": 25.700447,
+      "lng": -80.297589
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Parking Lot — a point of interest — in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1309",
+    "name": "Golf Carts",
+    "slug": "golf-carts",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -6683.209794924644,
+      "y": 2465.2745995778396
+    },
+    "coords": {
+      "lat": 25.935115,
+      "lng": -80.371361
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Golf Carts\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1320",
+    "name": "Liquor Store",
+    "slug": "liquor-store",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l1"
+    ],
+    "rawCoords": {
+      "x": -658.8710000000001,
+      "y": 1209.716
+    },
+    "coords": {
+      "lat": 25.824823,
+      "lng": -80.194422
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Liquor Store is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1337",
+    "name": "Intersection",
+    "slug": "intersection",
+    "district": "Key Lento",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2295.6009999999997,
+      "y": -5552.5779999999995
+    },
+    "coords": {
+      "lat": 25.624127,
+      "lng": -80.311886
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Intersection — a point of interest — in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1354",
+    "name": "Parking Garage",
+    "slug": "parking-garage-3",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -843.329,
+      "y": 793.636
+    },
+    "coords": {
+      "lat": 25.813441,
+      "lng": -80.20428
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Parking Garage\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1357",
+    "name": "Fuzzard Drain Canal",
+    "slug": "fuzzard-drain-canal",
+    "district": "Vice-Dale County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2053.263801040581,
+      "y": -2650.3380159942712
+    },
+    "coords": {
+      "lat": 25.715571,
+      "lng": -80.275924
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Fuzzard Drain Canal is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice-Dale County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice-Dale County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1366",
+    "name": "Parking Lot",
+    "slug": "parking-lot-6",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 2047.167,
+      "y": 1497.493
+    },
+    "coords": {
+      "lat": 25.80294,
+      "lng": -80.106624
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Parking Lot — a point of interest — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1379",
+    "name": "Bohemia",
+    "slug": "bohemia",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -370.62661147965525,
+      "y": 1735.781777933967
+    },
+    "coords": {
+      "lat": 25.838579,
+      "lng": -80.180231
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Bohemia\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1381",
+    "name": "Chip's Body Shop",
+    "slug": "chips-body-shop",
+    "district": "Key Lento",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2975.6215,
+      "y": -6461.464
+    },
+    "coords": {
+      "lat": 25.602461,
+      "lng": -80.342122
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Chip's Body Shop is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1427",
+    "name": "Boat Ramp",
+    "slug": "boat-ramp-2",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4904.518913907493,
+      "y": -7184.393218388174
+    },
+    "coords": {
+      "lat": 25.601246,
+      "lng": -80.409765
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Boat Ramp — a point of interest — in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1480",
+    "name": "Tunnel Entrance",
+    "slug": "tunnel-entrance",
+    "district": "Port Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 542.8840538756441,
+      "y": -605.0129008399231
+    },
+    "coords": {
+      "lat": 25.752027,
+      "lng": -80.174407
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Tunnel Entrance\" appears in the GTA 6 community landmark dataset, placed in the Port Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1506",
+    "name": "Bus Stop",
+    "slug": "bus-stop-9",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -307.837,
+      "y": 993.833
+    },
+    "coords": {
+      "lat": 25.813762,
+      "lng": -80.185506
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bus Stop is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1536",
+    "name": "Arrow Gas Station",
+    "slug": "arrow-gas-station-2",
+    "district": "Key Largo",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -2132.0309584926076,
+      "y": -5173.743873807585
+    },
+    "coords": {
+      "lat": 25.634541,
+      "lng": -80.303049
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Arrow Gas Station — a point of interest — in the Key Largo area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1540",
+    "name": "Big House",
+    "slug": "big-house",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -601.0031030339683,
+      "y": 720.4981769727145
+    },
+    "coords": {
+      "lat": 25.80827,
+      "lng": -80.197384
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Big House\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1541",
+    "name": "Gas Station",
+    "slug": "gas-station-4",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6350.825,
+      "y": 3544.09
+    },
+    "coords": {
+      "lat": 25.966311,
+      "lng": -80.350383
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Gas Station is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1542",
+    "name": "Airfield",
+    "slug": "airfield-2",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4256.112186431266,
+      "y": 5552.855493779454
+    },
+    "coords": {
+      "lat": 26.007366,
+      "lng": -80.264972
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Airfield — a point of interest — in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1544",
+    "name": "Turn ?",
+    "slug": "turn",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5844.8987440708115,
+      "y": 2182.4097572467867
+    },
+    "coords": {
+      "lat": 25.916256,
+      "lng": -80.347796
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Turn \" appears in the GTA 6 community landmark dataset, placed in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1545",
+    "name": "Turn ?",
+    "slug": "turn-2",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5674.152751976397,
+      "y": 2608.8747546115915
+    },
+    "coords": {
+      "lat": 25.928134,
+      "lng": -80.338267
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Turn  is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1546",
+    "name": "Turn ?",
+    "slug": "turn-3",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6098.212757246787,
+      "y": 2185.617
+    },
+    "coords": {
+      "lat": 25.919283,
+      "lng": -80.35572
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Turn  — a point of interest — in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1547",
+    "name": "Turn ?",
+    "slug": "turn-4",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6743.292982406362,
+      "y": 1098.3570615777303
+    },
+    "coords": {
+      "lat": 25.891422,
+      "lng": -80.386602
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Turn \" appears in the GTA 6 community landmark dataset, placed in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1554",
+    "name": "Airfield",
+    "slug": "airfield-3",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -7335.090112175743,
+      "y": 3252.4855179043007
+    },
+    "coords": {
+      "lat": 25.9682,
+      "lng": -80.384145
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Airfield is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1559",
+    "name": "\"Dudz Island\"",
+    "slug": "dudz-island",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6016.435157643338,
+      "y": -4876.469474124158
+    },
+    "coords": {
+      "lat": 25.68902,
+      "lng": -80.422141
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists \"Dudz Island\" — a point of interest — in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1561",
+    "name": "Watson Bay Airport",
+    "slug": "watson-bay-airport",
+    "district": "Watson Bay",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5911.310387993947,
+      "y": -2471.6012586626307
+    },
+    "coords": {
+      "lat": 25.765898,
+      "lng": -80.395346
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Watson Bay Airport\" appears in the GTA 6 community landmark dataset, placed in the Watson Bay area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1562",
+    "name": "LTF Airfield",
+    "slug": "ltf-airfield",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2776.20646327917,
+      "y": -4421.327965516445
+    },
+    "coords": {
+      "lat": 25.666407,
+      "lng": -80.31593
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "LTF Airfield is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1563",
+    "name": "Dam",
+    "slug": "dam",
+    "district": "Lummox County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2877.671995830238,
+      "y": 6824.343872881528
+    },
+    "coords": {
+      "lat": 26.032746,
+      "lng": -80.209259
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Dam — a point of interest — in the Lummox County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Lummox County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1565",
+    "name": "Airfield",
+    "slug": "airfield-5",
+    "district": "Leonard County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -1572.8932321229122,
+      "y": 3338.737309497217
+    },
+    "coords": {
+      "lat": 25.904505,
+      "lng": -80.202331
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Airfield\" appears in the GTA 6 community landmark dataset, placed in the Leonard County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonard County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1566",
+    "name": "Airport",
+    "slug": "airport",
+    "district": "Waning Sands",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -817.307098264844,
+      "y": 4359.663280355874
+    },
+    "coords": {
+      "lat": 25.928936,
+      "lng": -80.168627
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Airport is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Waning Sands area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1568",
+    "name": "Airfield",
+    "slug": "airfield-6",
+    "district": "Mariana County",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -4106.476908148581,
+      "y": -2917.0760918514193
+    },
+    "coords": {
+      "lat": 25.730604,
+      "lng": -80.343014
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Airfield — a point of interest — in the Mariana County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Mariana County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1589",
+    "name": "Gas Station",
+    "slug": "gas-station-5",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4",
+      "todo"
+    ],
+    "rawCoords": {
+      "x": -1663.823572875254,
+      "y": -2199.083135623731
+    },
+    "coords": {
+      "lat": 25.72573,
+      "lng": -80.259285
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Gas Station\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1594",
+    "name": "Baller",
+    "slug": "baller",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1582.5043537695751,
+      "y": -2328.484007911568
+    },
+    "coords": {
+      "lat": 25.72059,
+      "lng": -80.257995
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Baller is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1595",
+    "name": "Peewees",
+    "slug": "peewees",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1650.1857864376266,
+      "y": -2380.316349186104
+    },
+    "coords": {
+      "lat": 25.719688,
+      "lng": -80.260627
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Peewees — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1596",
+    "name": "Juicy Joes",
+    "slug": "juicy-joes",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1986.06122368915,
+      "y": -2263.6436406871194
+    },
+    "coords": {
+      "lat": 25.727353,
+      "lng": -80.270036
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Juicy Joes\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1598",
+    "name": "Gator Plaza",
+    "slug": "gator-plaza",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1792.3770000000002,
+      "y": -2445.648
+    },
+    "coords": {
+      "lat": 25.719207,
+      "lng": -80.265731
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Gator Plaza is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1599",
+    "name": "Marlin Motors",
+    "slug": "marlin-motors",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1607.1800000000003,
+      "y": -1753.097
+    },
+    "coords": {
+      "lat": 25.739559,
+      "lng": -80.253149
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Marlin Motors — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1603",
+    "name": "Railyard",
+    "slug": "railyard",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -2200.02,
+      "y": 701.758
+    },
+    "coords": {
+      "lat": 25.826114,
+      "lng": -80.247787
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Railyard\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1605",
+    "name": "Schlott Construction",
+    "slug": "schlott-construction-2",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4",
+      "reused"
+    ],
+    "rawCoords": {
+      "x": -2026.824890829419,
+      "y": -2047.0887489233753
+    },
+    "coords": {
+      "lat": 25.734855,
+      "lng": -80.2692
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Schlott Construction is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1610",
+    "name": "Vapid Dealership",
+    "slug": "vapid-dealership",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1973.9514660940674,
+      "y": -2340.119961030679
+    },
+    "coords": {
+      "lat": 25.724729,
+      "lng": -80.270402
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Vapid Dealership — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1615",
+    "name": "Welcome Sign",
+    "slug": "welcome-sign",
+    "district": "Capri",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -6466.463,
+      "y": -341.212
+    },
+    "coords": {
+      "lat": 25.841482,
+      "lng": -80.39197
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Welcome Sign\" appears in the GTA 6 community landmark dataset, placed in the Capri area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1622",
+    "name": "Spender's",
+    "slug": "spenders",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1946.978,
+      "y": -2440.675
+    },
+    "coords": {
+      "lat": 25.721153,
+      "lng": -80.270538
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Spender's is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1646",
+    "name": "Vice City Shopping Plaza",
+    "slug": "vice-city-shopping-plaza",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -419.56899999999996,
+      "y": 1609.8184999999999
+    },
+    "coords": {
+      "lat": 25.835054,
+      "lng": -80.182998
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Vice City Shopping Plaza — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1655",
+    "name": "Redford Gallery",
+    "slug": "redford-gallery",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -367.61800000000005,
+      "y": 1839.6660000000002
+    },
+    "coords": {
+      "lat": 25.841918,
+      "lng": -80.179121
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Redford Gallery\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1656",
+    "name": "Avis",
+    "slug": "avis",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -396.11699999999996,
+      "y": 1864.6660000000002
+    },
+    "coords": {
+      "lat": 25.843058,
+      "lng": -80.179772
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Avis is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1660",
+    "name": "Lârss & Elbö",
+    "slug": "l-rss-elb",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -346.648,
+      "y": 1865.496
+    },
+    "coords": {
+      "lat": 25.842515,
+      "lng": -80.17821
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Lârss & Elbö — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1668",
+    "name": "84",
+    "slug": "84-2",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -400.568,
+      "y": 1756.298
+    },
+    "coords": {
+      "lat": 25.839591,
+      "lng": -80.18097
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"84\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1669",
+    "name": "Bean Machine",
+    "slug": "bean-machine",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -411.08400000000006,
+      "y": 1634.2075
+    },
+    "coords": {
+      "lat": 25.835748,
+      "lng": -80.182493
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bean Machine is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1670",
+    "name": "247 Supermarket",
+    "slug": "247-supermarket",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -431.86400000000003,
+      "y": 1617.068
+    },
+    "coords": {
+      "lat": 25.835431,
+      "lng": -80.183313
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists 247 Supermarket — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1671",
+    "name": "Al Dentes",
+    "slug": "al-dentes",
+    "district": "VIce City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -391.35400000000004,
+      "y": 1622.068
+    },
+    "coords": {
+      "lat": 25.835126,
+      "lng": -80.181992
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Al Dentes\" appears in the GTA 6 community landmark dataset, placed in the VIce City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1672",
+    "name": "Allure Resort Services",
+    "slug": "allure-resort-services",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -451.23900000000003,
+      "y": 1585.484
+    },
+    "coords": {
+      "lat": 25.834629,
+      "lng": -80.184231
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Allure Resort Services is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1673",
+    "name": "Orion K?",
+    "slug": "orion-k",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -466.23900000000003,
+      "y": 1567.984
+    },
+    "coords": {
+      "lat": 25.834234,
+      "lng": -80.184873
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Orion K — a point of interest — in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L1682",
+    "name": "\"Residential Neighbourhood\"",
+    "slug": "residential-neighbourhood",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -787.9834851845604,
+      "y": 1081.5961940738243
+    },
+    "coords": {
+      "lat": 25.822153,
+      "lng": -80.199729
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"\"Residential Neighbourhood\"\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1698",
+    "name": "Downtown Metro Station",
+    "slug": "downtown-metro-station",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -633.3683427515439,
+      "y": 350.18574554417967
+    },
+    "coords": {
+      "lat": 25.796618,
+      "lng": -80.202018
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Downtown Metro Station is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1709",
+    "name": "The Hub Gallery",
+    "slug": "the-hub-gallery",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -386.2539999999999,
+      "y": 1840.0320000000002
+    },
+    "coords": {
+      "lat": 25.842145,
+      "lng": -80.179703
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists The Hub Gallery — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1716",
+    "name": "We Have Shoes",
+    "slug": "we-have-shoes",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -6373.76,
+      "y": 3920.6589999999997
+    },
+    "coords": {
+      "lat": 25.978803,
+      "lng": -80.347425
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"We Have Shoes\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1717",
+    "name": "Tobacco",
+    "slug": "tobacco",
+    "district": "Port Gellhorn",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -6372.76,
+      "y": 3930.1589999999997
+    },
+    "coords": {
+      "lat": 25.9791,
+      "lng": -80.347301
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Tobacco is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1724",
+    "name": "Deadzombie",
+    "slug": "deadzombie",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -421.097,
+      "y": 1720.4769999999999
+    },
+    "coords": {
+      "lat": 25.838665,
+      "lng": -80.181965
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Deadzombie — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1725",
+    "name": "Evoke",
+    "slug": "evoke",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -426.597,
+      "y": 1707.4769999999999
+    },
+    "coords": {
+      "lat": 25.838306,
+      "lng": -80.182265
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Evoke\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1728",
+    "name": "Pier",
+    "slug": "pier-3",
+    "district": "Capri",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "demolished"
+    ],
+    "rawCoords": {
+      "x": -7227.083583910449,
+      "y": -197.5855733612193
+    },
+    "coords": {
+      "lat": 25.854924,
+      "lng": -80.414456
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Pier is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Capri area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1749",
+    "name": "Cash For Scrap",
+    "slug": "cash-for-scrap",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1944.5102086188986,
+      "y": -1889.4962010965876
+    },
+    "coords": {
+      "lat": 25.739022,
+      "lng": -80.265076
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Cash For Scrap — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1750",
+    "name": "Church",
+    "slug": "church",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1896.3971719855704,
+      "y": -1991.890199582659
+    },
+    "coords": {
+      "lat": 25.735142,
+      "lng": -80.264565
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Church\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1773",
+    "name": "Restaurant",
+    "slug": "restaurant",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "l4"
+    ],
+    "rawCoords": {
+      "x": -1287.86,
+      "y": 410.901
+    },
+    "coords": {
+      "lat": 25.806143,
+      "lng": -80.22198
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Restaurant is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1826",
+    "name": "Train Tunnel",
+    "slug": "train-tunnel-2",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4976.633,
+      "y": 4990.099
+    },
+    "coords": {
+      "lat": 25.997407,
+      "lng": -80.293099
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Train Tunnel — a point of interest — in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1831",
+    "name": "Dam?",
+    "slug": "dam-2",
+    "district": "Lummox County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -1398.308,
+      "y": 6969.414
+    },
+    "coords": {
+      "lat": 26.020385,
+      "lng": -80.16138
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Dam\" appears in the GTA 6 community landmark dataset, placed in the Lummox County area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Lummox County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1846",
+    "name": "Turn ?",
+    "slug": "turn-5",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -7010.12962409356,
+      "y": 1611.2046255438643
+    },
+    "coords": {
+      "lat": 25.911155,
+      "lng": -80.389972
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Turn  is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1847",
+    "name": "Turn ?",
+    "slug": "turn-6",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -7100.688,
+      "y": 2090.012
+    },
+    "coords": {
+      "lat": 25.927748,
+      "lng": -80.388139
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Turn  — a point of interest — in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1848",
+    "name": "\"Ambrosia Hills\"",
+    "slug": "ambrosia-hills",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -3450.3187964466424,
+      "y": 5626.186256058589
+    },
+    "coords": {
+      "lat": 26.000448,
+      "lng": -80.238949
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"\"Ambrosia Hills\"\" appears in the GTA 6 community landmark dataset, placed in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1849",
+    "name": "\"Starlet Hill\"",
+    "slug": "starlet-hill",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5503.4901193810965,
+      "y": 3389.8605283713423
+    },
+    "coords": {
+      "lat": 25.951524,
+      "lng": -80.325278
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "\"Starlet Hill\" is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1850",
+    "name": "\"Bridge Ridge\"",
+    "slug": "bridge-ridge",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4182.424818191131,
+      "y": 3961.50975479104
+    },
+    "coords": {
+      "lat": 25.954842,
+      "lng": -80.278204
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists \"Bridge Ridge\" — a point of interest — in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1859",
+    "name": "Turn ?",
+    "slug": "turn-7",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6436.515,
+      "y": 1115.516
+    },
+    "coords": {
+      "lat": 25.888439,
+      "lng": -80.376799
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Turn \" appears in the GTA 6 community landmark dataset, placed in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1867",
+    "name": "Catalyst Realty",
+    "slug": "catalyst-realty",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1447.682,
+      "y": 1757.866
+    },
+    "coords": {
+      "lat": 25.818313,
+      "lng": -80.122908
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Catalyst Realty is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1868",
+    "name": "Lulu",
+    "slug": "lulu",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1435.182,
+      "y": 1757.866
+    },
+    "coords": {
+      "lat": 25.818457,
+      "lng": -80.1233
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Lulu — a point of interest — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1869",
+    "name": "Ajax Gym",
+    "slug": "ajax-gym",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1421.182,
+      "y": 1758.616
+    },
+    "coords": {
+      "lat": 25.818643,
+      "lng": -80.123733
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Ajax Gym\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1871",
+    "name": "Bridge",
+    "slug": "bridge-23",
+    "district": "Vice-Dale County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 905.7473719148496,
+      "y": 3234.765221591862
+    },
+    "coords": {
+      "lat": 25.872524,
+      "lng": -80.125501
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Bridge is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice-Dale County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice-Dale County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1872",
+    "name": "Bus Stop",
+    "slug": "bus-stop-10",
+    "district": "Vice City",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -418.7472850028148,
+      "y": 1020.5040003112686
+    },
+    "coords": {
+      "lat": 25.815908,
+      "lng": -80.188729
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Bus Stop — a point of interest — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1874",
+    "name": "Public Restrooms",
+    "slug": "public-restrooms-2",
+    "district": "Gloriana Key",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 629.6229950740526,
+      "y": -2078.8002802217875
+    },
+    "coords": {
+      "lat": 25.703169,
+      "lng": -80.18608
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Public Restrooms\" appears in the GTA 6 community landmark dataset, placed in the Gloriana Key area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1875",
+    "name": "Bridge",
+    "slug": "bridge-24",
+    "district": "Rialto Islands",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 431.096,
+      "y": 1219.279
+    },
+    "coords": {
+      "lat": 25.812555,
+      "lng": -80.160097
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bridge is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Rialto Islands area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1876",
+    "name": "Bridge",
+    "slug": "bridge-25",
+    "district": "Rialto Islands",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 663.096,
+      "y": 1284.029
+    },
+    "coords": {
+      "lat": 25.811981,
+      "lng": -80.152178
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Bridge — a point of interest — in the Rialto Islands area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1886",
+    "name": "Parking Lot",
+    "slug": "parking-lot-8",
+    "district": "Gloriana Key",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 570.58,
+      "y": -2055.7156758383203
+    },
+    "coords": {
+      "lat": 25.7046,
+      "lng": -80.187709
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Parking Lot\" appears in the GTA 6 community landmark dataset, placed in the Gloriana Key area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1892",
+    "name": "Breakwater",
+    "slug": "breakwater",
+    "district": "Capri",
+    "ownerCategory": "others",
+    "gtadbCategory": [
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -6933.337574235222,
+      "y": -297.559573339871
+    },
+    "coords": {
+      "lat": 25.848287,
+      "lng": -80.406207
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Breakwater is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Capri area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Leonida Keys",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1919",
+    "name": "Turn ?",
+    "slug": "turn-8",
+    "district": "Gellhorn International Raceway",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -6811.444878465514,
+      "y": 1787.9316127350696
+    },
+    "coords": {
+      "lat": 25.914601,
+      "lng": -80.382006
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Turn  — a point of interest — in the Gellhorn International Raceway area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1926",
+    "name": "Unnamed Hill",
+    "slug": "unnamed-hill",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5549.399116118842,
+      "y": 2985.5644621674196
+    },
+    "coords": {
+      "lat": 25.938926,
+      "lng": -80.33067
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Unnamed Hill\" appears in the GTA 6 community landmark dataset, placed in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1927",
+    "name": "Unnamed Hill",
+    "slug": "unnamed-hill-2",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5709.812651526002,
+      "y": 3553.3891315272185
+    },
+    "coords": {
+      "lat": 25.959215,
+      "lng": -80.330161
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Unnamed Hill is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1928",
+    "name": "River",
+    "slug": "river-5",
+    "district": "Kelly County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -4165.024000426886,
+      "y": 3572.804274201971
+    },
+    "coords": {
+      "lat": 25.942019,
+      "lng": -80.281454
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists River — a point of interest — in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1984",
+    "name": "Port",
+    "slug": "port",
+    "district": "Lummox County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -762.267,
+      "y": 6976.01
+    },
+    "coords": {
+      "lat": 26.013259,
+      "lng": -80.14134
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A point of interest named \"Port\" appears in the GTA 6 community landmark dataset, placed in the Lummox County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Lummox County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L2000",
+    "name": "\"Mount Lummox\"",
+    "slug": "mount-lummox",
+    "district": "Lummox County",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -3856.5115241347057,
+      "y": 7868.343565674202
+    },
+    "coords": {
+      "lat": 26.077943,
+      "lng": -80.229802
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "\"Mount Lummox\" is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Lummox County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Lummox County",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L2104",
+    "name": "Train Station",
+    "slug": "train-station-7",
+    "district": "Yorktown",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": -5375.382778858675,
+      "y": 6895.675965229944
+    },
+    "coords": {
+      "lat": 26.063886,
+      "lng": -80.287007
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Train Station — a point of interest — in the Yorktown area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L2155",
+    "name": "Lombank",
+    "slug": "lombank-3",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1653.419,
+      "y": 10.78935931288072
+    },
+    "coords": {
+      "lat": 25.759208,
+      "lng": -80.133513
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Lombank\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L2183",
+    "name": "Ocean Beach Pharmacy",
+    "slug": "ocean-beach-pharmacy",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1761.314,
+      "y": 1281.717
+    },
+    "coords": {
+      "lat": 25.799232,
+      "lng": -80.117709
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Ocean Beach Pharmacy is a point of interest recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L2188",
+    "name": "Juxta Gallery",
+    "slug": "juxta-gallery",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1564.011,
+      "y": 1273.841
+    },
+    "coords": {
+      "lat": 25.801253,
+      "lng": -80.123983
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Juxta Gallery — a point of interest — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L2189",
+    "name": "Lickety Sput",
+    "slug": "lickety-sput",
+    "district": "Vice Beach",
+    "ownerCategory": "others",
+    "gtadbCategory": [],
+    "rawCoords": {
+      "x": 1565.011,
+      "y": 1256.091
+    },
+    "coords": {
+      "lat": 25.800665,
+      "lng": -80.124125
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A point of interest named \"Lickety Sput\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  }
+]

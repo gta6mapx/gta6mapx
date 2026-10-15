@@ -1,0 +1,2021 @@
+[
+  {
+    "id": "gtadb-6-L161",
+    "name": "Gas Station",
+    "slug": "gas-station",
+    "district": "Waning Sands",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -192.52751093125698,
+      "y": 4202.804512521231
+    },
+    "coords": {
+      "lat": 25.916633,
+      "lng": -80.150537
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Gas Station is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Waning Sands area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L163",
+    "name": "Evergreen Plaza?",
+    "slug": "evergreen-plaza",
+    "district": "Waning Sands",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -236.32856971169895,
+      "y": 4043.3649864763543
+    },
+    "coords": {
+      "lat": 25.911961,
+      "lng": -80.15347
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Evergreen Plaza — a retail storefront — in the Waning Sands area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L165",
+    "name": "Arrow Gas Station",
+    "slug": "arrow-gas-station",
+    "district": "Leonard County",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -772.3498330466709,
+      "y": 2840.7454167982746
+    },
+    "coords": {
+      "lat": 25.879095,
+      "lng": -80.182053
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Arrow Gas Station\" appears in the GTA 6 community landmark dataset, placed in the Leonard County area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Leonard County",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L175",
+    "name": "Archez",
+    "slug": "archez",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -476.70587485112037,
+      "y": 1715.3139594199238
+    },
+    "coords": {
+      "lat": 25.839139,
+      "lng": -80.183762
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Archez is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L195",
+    "name": "Lou's",
+    "slug": "lous",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -1299.7640000000001,
+      "y": 913.3924999999999
+    },
+    "coords": {
+      "lat": 25.822597,
+      "lng": -80.217445
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Lou's — a restaurant — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L258",
+    "name": "Rattlers",
+    "slug": "rattlers",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2546,
+      "y": -3320.5
+    },
+    "coords": {
+      "lat": 25.699496,
+      "lng": -80.297946
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Rattlers\" appears in the GTA 6 community landmark dataset, placed in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L259",
+    "name": "Te Invito",
+    "slug": "te-invito",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -2569.5,
+      "y": -3532.5
+    },
+    "coords": {
+      "lat": 25.692883,
+      "lng": -80.300755
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Te Invito is a restaurant recorded in the gtadb.org community landmark dataset for GTA 6, in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L260",
+    "name": "LTD Gas Station",
+    "slug": "ltd-gas-station",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2568.199317527852,
+      "y": -3616.8752788923393
+    },
+    "coords": {
+      "lat": 25.690128,
+      "lng": -80.301538
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists LTD Gas Station — a retail storefront — in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L283",
+    "name": "Gas Stop",
+    "slug": "gas-stop",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6339.781450999983,
+      "y": 2754.474413545456
+    },
+    "coords": {
+      "lat": 25.940543,
+      "lng": -80.35775
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Gas Stop\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L284",
+    "name": "Bingo Hall",
+    "slug": "bingo-hall",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6368,
+      "y": 2848.5
+    },
+    "coords": {
+      "lat": 25.943922,
+      "lng": -80.357718
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Bingo Hall is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L298",
+    "name": "Pawn & Gun",
+    "slug": "pawn-gun",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6350,
+      "y": 3367
+    },
+    "coords": {
+      "lat": 25.960551,
+      "lng": -80.352088
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Pawn & Gun — a retail storefront — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L300",
+    "name": "Lucky Plucker",
+    "slug": "lucky-plucker",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -6362,
+      "y": 3439
+    },
+    "coords": {
+      "lat": 25.963027,
+      "lng": -80.351761
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A restaurant named \"Lucky Plucker\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L306",
+    "name": "Taco Bomb",
+    "slug": "taco-bomb",
+    "district": "Kelly County",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -5244.5,
+      "y": 3521.5
+    },
+    "coords": {
+      "lat": 25.95281,
+      "lng": -80.315858
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Taco Bomb is a restaurant recorded in the gtadb.org community landmark dataset for GTA 6, in the Kelly County area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Kelly County",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L308",
+    "name": "Alpha Gas Station",
+    "slug": "alpha-gas-station",
+    "district": "Kelly County",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -5282,
+      "y": 3573.5
+    },
+    "coords": {
+      "lat": 25.954931,
+      "lng": -80.316528
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Alpha Gas Station — a retail storefront — in the Kelly County area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Kelly County",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L310",
+    "name": "Hank's Waffles",
+    "slug": "hanks-waffles",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -6190.705097588649,
+      "y": 4520.714992493181
+    },
+    "coords": {
+      "lat": 25.996176,
+      "lng": -80.335814
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A restaurant named \"Hank's Waffles\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L313",
+    "name": "Uncle Jack's",
+    "slug": "uncle-jacks",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6373.6793332141315,
+      "y": 3888.4353258983947
+    },
+    "coords": {
+      "lat": 25.977756,
+      "lng": -80.347737
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Uncle Jack's is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L315",
+    "name": "Schlott Construction",
+    "slug": "schlott-construction",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6205.1900000000005,
+      "y": 4466.9259999999995
+    },
+    "coords": {
+      "lat": 25.994596,
+      "lng": -80.336794
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Schlott Construction — a retail storefront — in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L316",
+    "name": "Car Wash",
+    "slug": "car-wash",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6222.6765,
+      "y": 4379.691000000001
+    },
+    "coords": {
+      "lat": 25.991965,
+      "lng": -80.338196
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Car Wash\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L332",
+    "name": "Wonder Whale",
+    "slug": "wonder-whale",
+    "district": "Key Lento",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2935.5725,
+      "y": -6420.4545
+    },
+    "coords": {
+      "lat": 25.60333,
+      "lng": -80.340464
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Wonder Whale is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L341",
+    "name": "24/7 Supermarket",
+    "slug": "24-7-supermarket",
+    "district": "Key Lento",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1963.3647779761804,
+      "y": -5326.950578766931
+    },
+    "coords": {
+      "lat": 25.627619,
+      "lng": -80.299248
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists 24/7 Supermarket — a retail storefront — in the Key Lento area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L347",
+    "name": "Burnout Scooters",
+    "slug": "burnout-scooters",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6454.5,
+      "y": 3327.5
+    },
+    "coords": {
+      "lat": 25.960474,
+      "lng": -80.355755
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Burnout Scooters\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L357",
+    "name": "Mexican Restaurant",
+    "slug": "mexican-restaurant",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -2558.5,
+      "y": -3460
+    },
+    "coords": {
+      "lat": 25.695111,
+      "lng": -80.299701
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Mexican Restaurant is a restaurant recorded in the gtadb.org community landmark dataset for GTA 6, in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L360",
+    "name": "Sara's Unisex Salon",
+    "slug": "saras-unisex-salon",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2554,
+      "y": -3410.5
+    },
+    "coords": {
+      "lat": 25.696666,
+      "lng": -80.299076
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Sara's Unisex Salon — a retail storefront — in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L364",
+    "name": "Vinylism",
+    "slug": "vinylism",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2550.1759077035827,
+      "y": -3362.4003023894047
+    },
+    "coords": {
+      "lat": 25.698184,
+      "lng": -80.298486
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Vinylism\" appears in the GTA 6 community landmark dataset, placed in the Hamlet area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L371",
+    "name": "Treasured Trash",
+    "slug": "treasured-trash",
+    "district": "Hamlet",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2616.394124499996,
+      "y": -3602.8705642500145
+    },
+    "coords": {
+      "lat": 25.691139,
+      "lng": -80.302915
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Treasured Trash is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Hamlet area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L393",
+    "name": "Bite House",
+    "slug": "bite-house",
+    "district": "Watson Bay",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -5255.0775,
+      "y": -3389.639
+    },
+    "coords": {
+      "lat": 25.728514,
+      "lng": -80.383704
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Bite House — a restaurant — in the Watson Bay area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida",
+    "tags": [
+      "restaurant",
+      "food",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L406",
+    "name": "Xero Gas Station",
+    "slug": "xero-gas-station",
+    "district": "Ambrosia",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2706.7584168799162,
+      "y": 4235.8266820880035
+    },
+    "coords": {
+      "lat": 25.94672,
+      "lng": -80.229178
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Xero Gas Station\" appears in the GTA 6 community landmark dataset, placed in the Ambrosia area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Ambrosia",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L408",
+    "name": "Jeudy's Food Depot",
+    "slug": "jeudys-food-depot",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -913.9999999999998,
+      "y": 1527.5
+    },
+    "coords": {
+      "lat": 25.838086,
+      "lng": -80.199331
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Jeudy's Food Depot is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L419",
+    "name": "Simon's Tires",
+    "slug": "simons-tires",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1118.9058825771046,
+      "y": 1175.9448467548966
+    },
+    "coords": {
+      "lat": 25.829035,
+      "lng": -80.2092
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Simon's Tires — a retail storefront — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L608",
+    "name": "Xero Gas Station",
+    "slug": "xero-gas-station-2",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -1302.7845000000002,
+      "y": 989.7625
+    },
+    "coords": {
+      "lat": 25.825112,
+      "lng": -80.216794
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Xero Gas Station\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L615",
+    "name": "Crossroad Park Minimall",
+    "slug": "crossroad-park-minimall",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6346.496205511019,
+      "y": 3917.0079282204565
+    },
+    "coords": {
+      "lat": 25.97837,
+      "lng": -80.346605
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Crossroad Park Minimall is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L644",
+    "name": "The Amalfi",
+    "slug": "the-amalfi",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": 2030.1071625755537,
+      "y": 1010.2657469420135
+    },
+    "coords": {
+      "lat": 25.787315,
+      "lng": -80.111919
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists The Amalfi — a restaurant — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "restaurant",
+      "food",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L677",
+    "name": "Cipher Mall",
+    "slug": "cipher-mall",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1356.7830000000001,
+      "y": 784.5440000000001
+    },
+    "coords": {
+      "lat": 25.819071,
+      "lng": -80.220495
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Cipher Mall\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L679",
+    "name": "Gas Station",
+    "slug": "gas-station-2",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -87,
+      "y": 1923.5
+    },
+    "coords": {
+      "lat": 25.841402,
+      "lng": -80.169489
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Gas Station is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L943",
+    "name": "Mason's Shrimp Shack",
+    "slug": "masons-shrimp-shack",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "restaurant",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -6482.331010206695,
+      "y": 4363.613282578895
+    },
+    "coords": {
+      "lat": 25.99444,
+      "lng": -80.346508
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Mason's Shrimp Shack — a restaurant — in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L982",
+    "name": "Cafe Carraway",
+    "slug": "cafe-carraway",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "events",
+      "restaurant",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -951.620702057346,
+      "y": -1045.45853530954
+    },
+    "coords": {
+      "lat": 25.754972,
+      "lng": -80.225647
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A event venue and restaurant named \"Cafe Carraway\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "events",
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L1006",
+    "name": "Tisha-Wocka Flea Market",
+    "slug": "tisha-wocka-flea-market",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -2819.9848970773437,
+      "y": 749.863797650587
+    },
+    "coords": {
+      "lat": 25.83483,
+      "lng": -80.266788
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Tisha-Wocka Flea Market is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L1091",
+    "name": "Ammu-Nation?",
+    "slug": "ammu-nation",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1235.8254990043888,
+      "y": 645.3055065710334
+    },
+    "coords": {
+      "lat": 25.813154,
+      "lng": -80.218056
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Ammu-Nation — a retail storefront — in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L1098",
+    "name": "Bite",
+    "slug": "bite",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -1376.923,
+      "y": 782.377
+    },
+    "coords": {
+      "lat": 25.819233,
+      "lng": -80.221149
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A restaurant named \"Bite\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1099",
+    "name": "Bump & Grind",
+    "slug": "bump-grind",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1378.673,
+      "y": 795.625
+    },
+    "coords": {
+      "lat": 25.819683,
+      "lng": -80.221074
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bump & Grind is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1100",
+    "name": "Harmon & Fenix",
+    "slug": "harmon-fenix",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1370.923,
+      "y": 802.375
+    },
+    "coords": {
+      "lat": 25.819813,
+      "lng": -80.220765
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Harmon & Fenix — a retail storefront — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1101",
+    "name": "Core Software",
+    "slug": "core-software",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1359.673,
+      "y": 801.625
+    },
+    "coords": {
+      "lat": 25.819659,
+      "lng": -80.220419
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Core Software\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1102",
+    "name": "ShoreFront",
+    "slug": "shorefront-2",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -1347.423,
+      "y": 801.375
+    },
+    "coords": {
+      "lat": 25.81951,
+      "lng": -80.220037
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "ShoreFront is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1103",
+    "name": "PAWN",
+    "slug": "pawn",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6375.026746479526,
+      "y": 3845.6711549645315
+    },
+    "coords": {
+      "lat": 25.976383,
+      "lng": -80.348197
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists PAWN — a retail storefront — in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1105",
+    "name": "Happy Nails",
+    "slug": "happy-nails",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6374.444282591445,
+      "y": 3859.249565040895
+    },
+    "coords": {
+      "lat": 25.976817,
+      "lng": -80.348047
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Happy Nails\" appears in the GTA 6 community landmark dataset, placed in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1106",
+    "name": "Wet & Wild Pet Store",
+    "slug": "wet-wild-pet-store",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6373.8795,
+      "y": 3899.6214999999997
+    },
+    "coords": {
+      "lat": 25.978122,
+      "lng": -80.347634
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Wet & Wild Pet Store is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1107",
+    "name": "Game Horde",
+    "slug": "game-horde",
+    "district": "Port Gellhorn",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "demolished",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6373.8995,
+      "y": 3910.138
+    },
+    "coords": {
+      "lat": 25.978463,
+      "lng": -80.347532
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Game Horde — a retail storefront — in the Port Gellhorn area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism. The source data tags it as demolished.",
+    "region": "Port Gellhorn",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1108",
+    "name": "Marco Wholesale Footwear",
+    "slug": "marco-wholesale-footwear",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l1",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -460.35905499369835,
+      "y": 1703.0900567473618
+    },
+    "coords": {
+      "lat": 25.838553,
+      "lng": -80.183368
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Marco Wholesale Footwear\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1188",
+    "name": "Gas Station",
+    "slug": "gas-station-3",
+    "district": "Leonida",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -4094.5021326251044,
+      "y": -2384.483876783495
+    },
+    "coords": {
+      "lat": 25.74776,
+      "lng": -80.337435
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Gas Station is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Leonida area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Leonida",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence) — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1482",
+    "name": "Electric Fang Tattoo",
+    "slug": "electric-fang-tattoo",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -378.6405,
+      "y": 1839.5550000000003
+    },
+    "coords": {
+      "lat": 25.842041,
+      "lng": -80.179468
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Electric Fang Tattoo — a retail storefront — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1488",
+    "name": "Stock 305",
+    "slug": "stock-305",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -328.668,
+      "y": 1766.1170000000002
+    },
+    "coords": {
+      "lat": 25.83908,
+      "lng": -80.178616
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Stock 305\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1492",
+    "name": "Rideout Customs",
+    "slug": "rideout-customs",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail",
+      "unconfirmed"
+    ],
+    "rawCoords": {
+      "x": -866.064222437869,
+      "y": 966.3407756213101
+    },
+    "coords": {
+      "lat": 25.819311,
+      "lng": -80.203307
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Rideout Customs is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L1555",
+    "name": "Hobbs Milford",
+    "slug": "hobbs-milford",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1460.4669999999999,
+      "y": 1757.883
+    },
+    "coords": {
+      "lat": 25.818166,
+      "lng": -80.122506
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Hobbs Milford — a retail storefront — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1612",
+    "name": "Xero Gas Station",
+    "slug": "xero-gas-station-3",
+    "district": "Capri",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l4",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6243.044,
+      "y": -761.538
+    },
+    "coords": {
+      "lat": 25.825255,
+      "lng": -80.389059
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "A retail storefront named \"Xero Gas Station\" appears in the GTA 6 community landmark dataset, placed in the Capri area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1619",
+    "name": "Xero Gas Station",
+    "slug": "xero-gas-station-4",
+    "district": "Capri",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l4",
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -6551.463,
+      "y": -171.712
+    },
+    "coords": {
+      "lat": 25.847967,
+      "lng": -80.392984
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Xero Gas Station is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Capri area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Leonida Keys",
+    "tags": [
+      "store",
+      "retail",
+      "community-data"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1745",
+    "name": "Chacey's",
+    "slug": "chaceys",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "l4",
+      "restaurant"
+    ],
+    "rawCoords": {
+      "x": -1772.0425546619408,
+      "y": -2552.7352265942477
+    },
+    "coords": {
+      "lat": 25.715495,
+      "lng": -80.266138
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": true,
+    "summary": "Community-sourced map data for GTA 6 lists Chacey's — a restaurant — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "restaurant",
+      "food",
+      "community-data",
+      "store"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — transformed coordinates are extrapolated outside the validated anchor zone and unverified"
+  },
+  {
+    "id": "gtadb-6-L1781",
+    "name": "Vice Vinyl",
+    "slug": "vice-vinyl",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -381.0361420060178,
+      "y": 1669.0868180189589
+    },
+    "coords": {
+      "lat": 25.836534,
+      "lng": -80.181209
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Vice Vinyl\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1786",
+    "name": "Fleeca",
+    "slug": "fleeca",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1507.3297053217923,
+      "y": 1800.9626806152723
+    },
+    "coords": {
+      "lat": 25.819024,
+      "lng": -80.120613
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Fleeca is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1789",
+    "name": "Eye & Dry",
+    "slug": "eye-dry",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1501.652,
+      "y": 1755.7179999999998
+    },
+    "coords": {
+      "lat": 25.81762,
+      "lng": -80.121234
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Eye & Dry — a retail storefront — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1790",
+    "name": "Diamond Dawgs",
+    "slug": "diamond-dawgs",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1521.297,
+      "y": 1754.2554999999998
+    },
+    "coords": {
+      "lat": 25.817346,
+      "lng": -80.120631
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Diamond Dawgs\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1870",
+    "name": "Papasco's",
+    "slug": "papascos",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1501.182,
+      "y": 1735.116
+    },
+    "coords": {
+      "lat": 25.816957,
+      "lng": -80.12145
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Papasco's is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1932",
+    "name": "Perkins Deli",
+    "slug": "perkins-deli",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -370.25847705377794,
+      "y": 1549.382419066226
+    },
+    "coords": {
+      "lat": 25.832522,
+      "lng": -80.18204
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Perkins Deli — a retail storefront — in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1933",
+    "name": "Josefina",
+    "slug": "josefina",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -363.5925000000001,
+      "y": 1560.6115
+    },
+    "coords": {
+      "lat": 25.83281,
+      "lng": -80.181721
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Josefina\" appears in the GTA 6 community landmark dataset, placed in the Vice City area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L1934",
+    "name": "Bruiser?",
+    "slug": "bruiser",
+    "district": "Vice City",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": -358.50249999999994,
+      "y": 1571.4295
+    },
+    "coords": {
+      "lat": 25.833102,
+      "lng": -80.181455
+    },
+    "evidenceStatus": "disputed",
+    "confidence": "unknown",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Bruiser is a retail storefront recorded in the gtadb.org community landmark dataset for GTA 6, in the Vice City area. Its default evidence label is disputed: the source dataset flags this record as low-confidence, so treat it with extra skepticism.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate — source dataset flags this record as unconfirmed (UNKNOWN confidence)"
+  },
+  {
+    "id": "gtadb-6-L2150",
+    "name": "Fleeca",
+    "slug": "fleeca-2",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1700.1438766437998,
+      "y": 72.63003767777445
+    },
+    "coords": {
+      "lat": 25.760676,
+      "lng": -80.131442
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "Community-sourced map data for GTA 6 lists Fleeca — a retail storefront — in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  },
+  {
+    "id": "gtadb-6-L2151",
+    "name": "Frills & Fancy",
+    "slug": "frills-fancy",
+    "district": "Vice Beach",
+    "ownerCategory": "stores",
+    "gtadbCategory": [
+      "retail"
+    ],
+    "rawCoords": {
+      "x": 1589.6221799771147,
+      "y": 519.0632789562403
+    },
+    "coords": {
+      "lat": 25.776448,
+      "lng": -80.130552
+    },
+    "evidenceStatus": "leak-reported",
+    "confidence": "supported",
+    "source": "gtadb.org community landmark dataset, rev 7c3f8c2 (rolux/gtadb.org map/data/6/landmarks.json)",
+    "needsCoordVerification": false,
+    "summary": "A retail storefront named \"Frills & Fancy\" appears in the GTA 6 community landmark dataset, placed in the Vice Beach area. Its default evidence label is leak-reported: unverified community data, so treat it as rumor until launch.",
+    "region": "Vice City",
+    "tags": [
+      "store",
+      "retail"
+    ],
+    "evidenceDetail": "Community dataset (gtadb.org-derived), rev 7c3f8c2 — pin approximate"
+  }
+]
