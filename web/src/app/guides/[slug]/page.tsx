@@ -57,8 +57,70 @@ export default async function GuidePage({
   if (!a) notFound();
   const related = getRelatedArticles(a);
 
+  // Extract FAQs from content for FAQPage schema
+  const faqs: { q: string; a: string }[] = [];
+  const faqMatch = a.content.match(/## (?:FAQ|Frequently Asked Questions|Questions)/i);
+  if (faqMatch) {
+    const faqSection = a.content.slice(faqMatch.index);
+    const qaPairs = faqSection.match(/\*\*([^*?]+\?)\*\*\s*\n+([^#*]+)/g) || [];
+    for (const pair of qaPairs.slice(0, 8)) {
+      const qm = pair.match(/\*\*([^*?]+\?)\*\*/);
+      const am = pair.match(/\*\*[^*?]+\?\*\*\s*\n+([^#*]+)/);
+      if (qm && am) faqs.push({ q: qm[1].trim(), a: am[1].trim().slice(0, 500) });
+    }
+  }
+
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: a.title,
+    description: a.meta_description,
+    author: { "@type": "Organization", name: "GTA6mapx", url: "https://gta6mapx.com" },
+    publisher: { "@type": "Organization", name: "GTA6mapx", url: "https://gta6mapx.com" },
+    datePublished: a.created_at,
+    dateModified: a.created_at,
+    mainEntityOfPage: `https://gta6mapx.com/guides/${a.slug}`,
+    wordCount: a.word_count,
+    inLanguage: "en",
+    about: a.keyword,
+  };
+
+  const faqSchema = faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  } : null;
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://gta6mapx.com" },
+      { "@type": "ListItem", position: 2, name: "Guides", item: "https://gta6mapx.com/guides" },
+      { "@type": "ListItem", position: 3, name: a.keyword, item: `https://gta6mapx.com/guides/${a.slug}` },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-[#0a0e14] text-[#e8ecf1]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <SiteHeader />
       <article className="max-w-3xl mx-auto px-4 py-10">
         <nav className="text-sm text-gray-400 mb-6">
